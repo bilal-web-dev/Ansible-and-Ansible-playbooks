@@ -61,7 +61,9 @@
 
 ## Hitting the public IP and we are LIVE!
 
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/31224103-bc6f-4e27-bfda-6965e2cb5b22" />
 
+<img width="1919" height="827" alt="image" src="https://github.com/user-attachments/assets/def7db40-8091-454a-b12c-f08c0d6f0849" />
 
 
 
