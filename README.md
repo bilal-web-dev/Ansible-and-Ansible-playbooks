@@ -3,7 +3,7 @@ Ansible Hands-on with Project
 
 I have used Ansible (an open-source configuration management tool) to update the host servers using the push technique on AWS. The steps are as follows:
 
-# 1. I created the Ansible master server on EC2 that will be responsible for updates and configuration of other host servers. 
+1. I created the Ansible master server on EC2 that will be responsible for updates and configuration of other host servers. 
 
 <img width="1919" height="780" alt="image" src="https://github.com/user-attachments/assets/ccd9053a-1e0b-45ea-8605-3313808ffe62" />
 
